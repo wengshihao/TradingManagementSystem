@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="register">
+    <file>resource/picture/changeWgt_background.jpg</file>
+    <file>resource/picture/SchangeSupplyWgt_background.jpg</file>
+    <file>resource/picture/register_background.jpg</file>
+  </qresource>
+  <qresource prefix="login">
+    <file>resource/picture/login_background.jpg</file>
+  </qresource>
+  <qresource prefix="SmainWdt">
+    <file>resource/picture/summaryofp_background.jpg</file>
+    <file>resource/picture/SsummaryWgt_background.jpg</file>
+    <file>resource/picture/ScfmTradeShowSCP_background.jpg</file>
+    <file>resource/picture/SsupplyWgt_background.jpg</file>
+    <file>resource/picture/SmainWgt_background.jpg</file>
+    <file>resource/picture/SseeP_Wdt_background.jpg</file>
+  </qresource>
+  <qresource prefix="CmainWdt">
+    <file>resource/picture/CsummaryWgt_background.jpg</file>
+    <file>resource/picture/CopenSCPWgt_background.jpg</file>
+    <file>resource/picture/CchangeBuyWgt_background.jpg</file>
+    <file>resource/picture/CbuyWgt_background.jpg</file>
+    <file>resource/picture/CopenPWgt_background.jpg</file>
+    <file>resource/picture/CmainWgt_background.jpg</file>
+  </qresource>
+  <qresource prefix="TmainWgt">
+    <file>resource/picture/T_summaryWgt_background.jpg</file>
+    <file>resource/picture/TgiceTadeWgt_background.jpg</file>
+    <file>resource/picture/TopenSPandCPWgt_background.jpg</file>
+    <file>resource/picture/TmainWgt_background.jpg</file>
+  </qresource>
+</RCC>
